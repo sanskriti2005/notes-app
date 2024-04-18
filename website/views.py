@@ -1,6 +1,6 @@
 from flask import Blueprint
 
-#create blueprint
+#create/set-up a blueprint
 views = Blueprint('views', __name__)
 
 #create a route for that blueprint
